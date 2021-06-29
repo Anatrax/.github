@@ -1,5 +1,7 @@
 Default GitHub Community Health Files
 ======================================
+For more information on GitHub Community Health Files, visit https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file.
+
 Templates
 ----------
 - Bug report
